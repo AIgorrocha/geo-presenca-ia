@@ -1,0 +1,4 @@
+# Uma URL por linha; "#" comenta. Usado por: node scripts/verificar-geo.mjs --lista urls.txt --md historico/AAAA-MM.md
+# Troque os exemplos abaixo pelos seus endereços (tire o "#" da frente):
+# https://seu-dominio.com.br/
+# https://seu-dominio.com.br/blog

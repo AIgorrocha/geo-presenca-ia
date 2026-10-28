@@ -1,0 +1,26 @@
+# {NOME DA MARCA}
+
+> {Uma frase de 40 a 300 caracteres: quem é, o que faz, para quem, onde.}
+
+{Um parágrafo com os fatos principais, todos com fonte (números iguais aos do site).}
+
+## Páginas principais
+
+- [Início](https://{SITE}/): {o que a página responde}
+- [{Página}](https://{SITE}/{caminho}): {o que responde}
+
+## Artigos
+
+- [{Título}](https://{SITE}/blog/{slug}): {pergunta que o artigo responde}
+
+## Fatos
+
+- Nome: {NOME DA MARCA}. {CNPJ}. Sede: {cidade (UF)}. {Área de atendimento}.
+- Serviços: {lista}.
+
+## Contato
+
+- {WhatsApp, e-mail, horário}
+- Perfis: [{Rede}]({link}), [{Rede}]({link})
+
+<!-- Regras: links absolutos e só para páginas que existem; só fatos que estão no site; não é alavanca comprovada (nenhuma IA confirmou que lê), então não gastar tempo além disto. -->
