@@ -141,7 +141,9 @@ Construída a partir do estudo de dois projetos abertos: [AgriciDaniel/claude-se
 
 ## Autor
 
-**Igor Rocha**, da [Visão Projetos BIM](https://visaoprojetosbim.com) e do [IA na prática com Igor](https://ianapraticacomigor.com). GitHub: [@AIgorrocha](https://github.com/AIgorrocha).
+**Igor Rocha**, engenheiro civil e de dados, especialista em BIM e inteligência artificial, CEO da [Visão Projetos BIM](https://visaoprojetosbim.com).
+
+Acompanhe: [Instagram @igorrocha.ia](https://www.instagram.com/igorrocha.ia/) | [LinkedIn](https://www.linkedin.com/in/igorrochaia/) | [YouTube](https://www.youtube.com/@igorrocha.iaempresarial) | [TikTok](https://www.tiktok.com/@igorrocha.ia) | [GitHub](https://github.com/AIgorrocha)
 
 ## Licença
 
