@@ -8,7 +8,7 @@ Quando: todo mês (primeira segunda-feira) e sempre que publicar site ou página
    Comparar com o arquivo do mês anterior em `historico/`. Caiu nota, robô bloqueado, página sem texto sem JavaScript ou sitemap sumido = consertar ou abrir TODO no repositório do site.
 2. **As 20 perguntas** de cada marca já aplicada (arquivo `llm-seo/PERGUNTAS-TESTE.md` de cada site) nas quatro IAs, em janela anônima. Anotar C, M ou - e qualquer erro de fato. O agente pode rodar as que têm busca na web disponível; as outras o usuário roda e cola o resultado.
 3. **Conteúdo.** Pergunta que não cita a marca há dois meses vira tarefa: pergunta nova no FAQ, artigo ou vídeo curto que responda direto. Página revisada de verdade ganha data nova (`updatedAt`); data nova sem revisão é proibido.
-4. **Registro.** Linha nova na tabela de rodadas das perguntas, nota do mês no `inventario.md`, e uma página no ai-memory (projeto da marca) só se houve mudança de estado ou decisão.
+4. **Registro.** Linha nova na tabela de rodadas das perguntas, nota do mês no `inventario.md` e no `historico/` do mês.
 
 ## Depois de cada publicação (site ou artigo novo)
 - `verificar-geo.mjs` no endereço oficial da página nova.

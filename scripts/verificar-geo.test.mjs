@@ -63,6 +63,6 @@ test('nota: llms.txt é informativo e não mexe na nota (nenhuma IA confirmou qu
 
 test('lerLista: uma URL por linha, ignora linha vazia e comentário', async () => {
   const { lerLista } = await import('./verificar-geo.mjs');
-  const texto = '# Visão\nhttps://visaoprojetosbim.com/\n\n  https://igorrocha.vercel.app/  # portfólio\n# https://desligado.com\n';
-  assert.deepEqual(lerLista(texto), ['https://visaoprojetosbim.com/', 'https://igorrocha.vercel.app/']);
+  const texto = '# Visão\nhttps://visaoprojetosbim.com/\n\n  https://exemplo.com.br/  # portfólio\n# https://desligado.com\n';
+  assert.deepEqual(lerLista(texto), ['https://visaoprojetosbim.com/', 'https://exemplo.com.br/']);
 });
